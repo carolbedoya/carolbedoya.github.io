@@ -14,7 +14,7 @@ Languages: Matlab/Python/C++
 
 ## Code:
 
-[Bird ID and Censusing](https://github.com/carolbedoya/Bird-ID-and-Censusing)
+🦜 [Bird ID and Censusing](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
 ## Datasets:
 
