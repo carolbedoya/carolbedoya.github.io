@@ -19,6 +19,6 @@ Languages: Matlab/Python/C++
 [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
 
-### Contact
+## Contact:
 
-📧 **email:**  carol@atarausanctuary.co.nz  🦜
+📧 **email:  carol@atarausanctuary.co.nz**  🦜
