@@ -8,7 +8,7 @@ Languages: Matlab/Python/C++
 
 ## Publications:
 
-[Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)\
+[Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)
 
 [Research Gate](https://www.researchgate.net/profile/Carol-Bedoya)
 
