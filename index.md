@@ -1,8 +1,6 @@
 # Hola!
 
-I am a bioacoustician/acoustic ecologist (PhD). I develop computational/signal processing tools for the analysis of acoustic data and use
-them to solve biologically-relevant issues. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering
-Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics,Ecoacoustics, and Biotremology). 
+I am a <span style="color:magenta"> bioacoustician </span>/<span style="color:green"> acoustic ecologist </span> (PhD). I develop computational/signal processing tools for the analysis of acoustic data and use them to solve biologically-relevant issues. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics,Ecoacoustics, and Biotremology). 
 
 Languages: Matlab/Python/C++
 
@@ -23,4 +21,4 @@ Languages: Matlab/Python/C++
 
 ### Contact
 
-📧 **email:** <span style="color:magenta"> carol@atarausanctuary.co.nz </span> 🦜
+📧 **email:**  carol@atarausanctuary.co.nz  🦜
