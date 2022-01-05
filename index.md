@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Hola!
 
 I am a bioacoustician/acoustic ecologist (PhD). I develop computational/signal processing tools for the analysis of acoustic data and use
