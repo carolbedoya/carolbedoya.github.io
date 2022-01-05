@@ -14,7 +14,7 @@ Languages: Matlab/Python/C++
 
 ## Code:
 
-🦜 [Bird ID and Censusing](https://github.com/carolbedoya/Bird-ID-and-Censusing)
+[Bird ID and Censusing](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
 ## Datasets:
 
@@ -23,4 +23,4 @@ Languages: Matlab/Python/C++
 
 ### Contact
 
-📧 **email:** carol@atarausanctuary.co.nz 
+📧 **email:** <span style="color:magenta"> carol@atarausanctuary.co.nz </span> 🦜
