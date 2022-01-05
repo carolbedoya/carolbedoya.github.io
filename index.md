@@ -1,10 +1,15 @@
 # Hola!
 
-I am a bioacoustician/acoustic ecologist. I study animal sounds and the interactions amongst them. 
+I am a bioacoustician/acoustic ecologist (PhD). I develop computational/signal processing tools for the analysis of acoustic data and use
+them to solve biologically-relevant issues. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering
+Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics,Ecoacoustics, and Biotremology). 
+
+Languages: Matlab/Python/C++
 
 ##Publications:
 
 [Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)
+[Research Gate](https://www.researchgate.net/profile/Carol-Bedoya)
 
 ##Code:
 
