@@ -6,17 +6,17 @@ Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacou
 
 Languages: Matlab/Python/C++
 
-##Publications:
+## Publications:
 
 [Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)\
 
 [Research Gate](https://www.researchgate.net/profile/Carol-Bedoya)
 
-##Code:
+## Code:
 
 [Bird ID and Censusing](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
-##Datasets:
+## Datasets:
 
 [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
