@@ -1,32 +1,20 @@
 # Hola!
 
-## This website is in Development !!!!!
-
-I study animal sounds and the interactions amongst them. 
+I am a bioacoustician/acoustic ecologist. I study animal sounds and the interactions amongst them. 
 
 ##Publications:
 
-1. Numbered
-2. List
+[Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)
 
 ##Code:
 
-- Bulleted
-- List
+[Bird ID and Censusing](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
 ##Datasets:
 
-```
-**Bold** and _Italic_ and `Code` text
-```
-
-[Link](url) and ![Image](src)
-
-[editor on GitHub](https://github.com/carolbedoya/carolbedoya/edit/gh-pages/index.md).
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
 
-### Support or Contact
+### Contact
 
-email:
+email: carol@atarausanctuary.co.nz
