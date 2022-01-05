@@ -21,4 +21,5 @@ Languages: Matlab/Python/C++
 
 ## Contact:
 
-📧 **email:  carol@atarausanctuary.co.nz**  🦜
+📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
+ 
