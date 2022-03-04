@@ -71,19 +71,14 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 ## Datasets:
 
+{% highlight ruby %}
+
   [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
   [Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
   
-  
-<details>
-<summary>Preview</summary>
-  
-{% highlight ruby %}
-[Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
-{% endhighlight %}
-
- </details>
+{% endhighlight %}  
+ 
 
 ## Contact:
 
