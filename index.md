@@ -24,6 +24,42 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 * [Brown marmorated stink bug overwintering aggregations are not regulated through vibrational signals during autumn dispersal (PDF)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.201371)
 
+* [Ecoacoustics in the rain: understanding acoustic indices under the most common geophonic source in tropical rainforests (PDF)](https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.162)
+
+### 2019
+
+* [Acoustic communication of the red‐haired bark beetle Hylurgus ligniperda (PDF)](https://ir.canterbury.ac.nz/bitstream/handle/10092/17606/Bedoya_et_al_2019_hylurgus_UC.pdf?sequence=3)
+
+* [First report of luminous stimuli eliciting sound production in weevils (PDF)](https://ir.canterbury.ac.nz/bitstream/handle/10092/17524/Bedoya_et_al_2019_hylesinus_UC.pdf?sequence=3)
+
+* [Vibrational behavior in bark beetles: Applied aspects (PDF)](https://link.springer.com/chapter/10.1007/978-3-030-22293-2_21)
+
+### 2018
+
+* [Psychophysical investigation of vigilance decrement in jumping spiders: overstimulation or understimulation?](https://link.springer.com/article/10.1007/s10071-018-1210-2)
+
+### 2017
+
+* [Automatic identification of rainfall in acoustic recordings](https://www.sciencedirect.com/science/article/abs/pii/S1470160X16307117)
+
+### 2014
+
+* [Automatic recognition of anuran species based on syllable identification](https://www.sciencedirect.com/science/article/abs/pii/S1574954114001198)
+
+* [Yager–Rybalov Triple Π operator as a means of reducing the number of generated clusters in unsupervised anuran vocalization recognition](https://link.springer.com/chapter/10.1007/978-3-319-13650-9_34)
+
+### 2013 (Undergrad)
+
+* [Automatic component rejection based on fuzzy clustering for noise reduction in electroencephalographic signals](https://ieeexplore.ieee.org/abstract/document/6644922)
+
+* [A novel exponential function based model for an uniaxial magnetic levitation system (PDF)](http://www.scielo.org.co/pdf/rfiua/n67/n67a06.pdf)
+
+### 2012 (Undergrad)
+
+* [Unsupervised feature selection based on fuzzy clustering for fault detection of the tennessee eastman process (PDF)](https://www.researchgate.net/profile/Cesar-Uribe/publication/281068887_Unsupervised_Feature_Selection_Based_on_Fuzzy_Clustering_for_Fault_Detection_of_the_Tennessee_Eastman_Process/links/59ca8f9b0f7e9bbfdc36acb9/Unsupervised-Feature-Selection-Based-on-Fuzzy-Clustering-for-Fault-Detection-of-the-Tennessee-Eastman-Process.pdf)
+
+* [Simulation and control design of an uniaxial magnetic levitation system](https://ieeexplore.ieee.org/abstract/document/6404077)
+
 ## Code:
 
 * [Individual Identification and Censusing of Birds](https://github.com/carolbedoya/Bird-ID-and-Censusing)
