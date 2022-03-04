@@ -4,7 +4,9 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 [![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [ Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [![button](https://img.icons8.com/windows/48/000000/orcid.png)](https://orcid.org/0000-0002-7013-7083) [ORCID](https://orcid.org/0000-0002-7013-7083) [![button](https://img.icons8.com/windows/48/000000/researchgate.png)](https://www.researchgate.net/profile/Carol-Bedoya) [ResearchGate](https://www.researchgate.net/profile/Carol-Bedoya)
 
-## Publications:
+
+<details>
+<summary>Publications</summary>
 
 ### 2022
 
@@ -59,18 +61,26 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 [Unsupervised feature selection based on fuzzy clustering for fault detection of the tennessee eastman process (PDF)](https://www.researchgate.net/profile/Cesar-Uribe/publication/281068887_Unsupervised_Feature_Selection_Based_on_Fuzzy_Clustering_for_Fault_Detection_of_the_Tennessee_Eastman_Process/links/59ca8f9b0f7e9bbfdc36acb9/Unsupervised-Feature-Selection-Based-on-Fuzzy-Clustering-for-Fault-Detection-of-the-Tennessee-Eastman-Process.pdf)
 
 [Simulation and control design of an uniaxial magnetic levitation system](https://ieeexplore.ieee.org/abstract/document/6404077)
+  
+</details>
 
-## Code:
+<details>
+  <summary>Code</summary>
 
-[Individual Identification and Censusing of Birds](https://github.com/carolbedoya/Bird-ID-and-Censusing)
+  [Individual Identification and Censusing of Birds](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
-[Characterization of Stridulatory Sounds Inside Wood](https://github.com/carolbedoya/Beetle-Sounds-Inside-Wood)
+  [Characterization of Stridulatory Sounds Inside Wood](https://github.com/carolbedoya/Beetle-Sounds-Inside-Wood)
 
-## Datasets:
+</details>
 
-[Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
+<details>
+  <summary>Datasets</summary>
 
-[Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
+  [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
+
+  [Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
+  
+</details>
 
 
 ## Contact:
