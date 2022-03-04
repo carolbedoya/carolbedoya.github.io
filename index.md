@@ -4,7 +4,6 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 Languages: Matlab/Python
 
-[https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en example]
 
 ## Publications:
 
@@ -29,6 +28,3 @@ Languages: Matlab/Python
 
 📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
 
-{% include buttons.html %}
-</body>
-</html>
