@@ -78,9 +78,15 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 ## Contact:
 
-{% highlight ruby %}
-
 📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
 
-{% endhighlight %}  
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+[Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
+
+</p>
+</details>
 
