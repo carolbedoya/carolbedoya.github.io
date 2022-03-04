@@ -5,14 +5,13 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 [![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [ Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [![button](https://img.icons8.com/windows/48/000000/orcid.png)](https://orcid.org/0000-0002-7013-7083) [ORCID](https://orcid.org/0000-0002-7013-7083) [![button](https://img.icons8.com/windows/48/000000/researchgate.png)](https://www.researchgate.net/profile/Carol-Bedoya) [ResearchGate](https://www.researchgate.net/profile/Carol-Bedoya)
 
 
-<details>
-<summary>Publications</summary>
+## Publications
 
-### 2022
+#### 2022
 
 [Habitat and acoustic spectrum as determinant factors of the occupation of neotropical anurans (PDF)](http://revistas.humboldt.org.co/index.php/biota/article/view/910/1079)
 
-### 2021
+#### 2021
 
 [Acoustic Censusing and Individual Identification of Birds in the Wild (PDF)](https://www.biorxiv.org/content/10.1101/2021.10.29.466450v1.full.pdf)
 
@@ -22,13 +21,13 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 [Sound Production in Bark and Ambrosia Beetles (PDF)](https://ir.canterbury.ac.nz/bitstream/handle/10092/18512/Bioacoustics_repository%5B2%5D.pdf?sequence=2)
 
-### 2020
+#### 2020
 
 [Brown marmorated stink bug overwintering aggregations are not regulated through vibrational signals during autumn dispersal (PDF)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.201371)
 
 [Ecoacoustics in the rain: understanding acoustic indices under the most common geophonic source in tropical rainforests (PDF)](https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.162)
 
-### 2019
+#### 2019
 
 [Acoustic communication of the red‐haired bark beetle Hylurgus ligniperda (PDF)](https://ir.canterbury.ac.nz/bitstream/handle/10092/17606/Bedoya_et_al_2019_hylurgus_UC.pdf?sequence=3)
 
@@ -36,51 +35,46 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 [Vibrational behavior in bark beetles: Applied aspects (PDF)](https://link.springer.com/chapter/10.1007/978-3-030-22293-2_21)
 
-### 2018
+#### 2018
 
 [Psychophysical investigation of vigilance decrement in jumping spiders: overstimulation or understimulation?](https://link.springer.com/article/10.1007/s10071-018-1210-2)
 
-### 2017
+#### 2017
 
 [Automatic identification of rainfall in acoustic recordings](https://www.sciencedirect.com/science/article/abs/pii/S1470160X16307117)
 
-### 2014
+#### 2014
 
 [Automatic recognition of anuran species based on syllable identification](https://www.sciencedirect.com/science/article/abs/pii/S1574954114001198)
 
 [Yager–Rybalov Triple Π operator as a means of reducing the number of generated clusters in unsupervised anuran vocalization recognition](https://link.springer.com/chapter/10.1007/978-3-319-13650-9_34)
 
-### 2013 (Undergrad)
+#### 2013 (Undergrad)
 
 [Automatic component rejection based on fuzzy clustering for noise reduction in electroencephalographic signals](https://ieeexplore.ieee.org/abstract/document/6644922)
 
 [A novel exponential function based model for an uniaxial magnetic levitation system (PDF)](http://www.scielo.org.co/pdf/rfiua/n67/n67a06.pdf)
 
-### 2012 (Undergrad)
+#### 2012 (Undergrad)
 
 [Unsupervised feature selection based on fuzzy clustering for fault detection of the tennessee eastman process (PDF)](https://www.researchgate.net/profile/Cesar-Uribe/publication/281068887_Unsupervised_Feature_Selection_Based_on_Fuzzy_Clustering_for_Fault_Detection_of_the_Tennessee_Eastman_Process/links/59ca8f9b0f7e9bbfdc36acb9/Unsupervised-Feature-Selection-Based-on-Fuzzy-Clustering-for-Fault-Detection-of-the-Tennessee-Eastman-Process.pdf)
 
 [Simulation and control design of an uniaxial magnetic levitation system](https://ieeexplore.ieee.org/abstract/document/6404077)
   
-</details>
 
-<details>
-  <summary>Code</summary>
+## Code:
 
   [Individual Identification and Censusing of Birds](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
   [Characterization of Stridulatory Sounds Inside Wood](https://github.com/carolbedoya/Beetle-Sounds-Inside-Wood)
 
-</details>
 
-<details>
-  <summary>Datasets</summary>
+## Datasets:
 
   [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
   [Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
   
-</details>
 
 
 ## Contact:
