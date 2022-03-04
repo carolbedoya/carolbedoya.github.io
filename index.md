@@ -75,7 +75,15 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
   [Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
   
+  
+<details>
+<summary>Preview</summary>
+  
+{% highlight ruby %}
+[Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
+{% endhighlight %}
 
+ </details>
 
 ## Contact:
 
