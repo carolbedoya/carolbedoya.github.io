@@ -34,7 +34,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 [First report of luminous stimuli eliciting sound production in weevils (PDF)](https://ir.canterbury.ac.nz/bitstream/handle/10092/17524/Bedoya_et_al_2019_hylesinus_UC.pdf?sequence=3)
 
-[Vibrational behavior in bark beetles: Applied aspects (PDF)](https://link.springer.com/chapter/10.1007/978-3-030-22293-2_21)
+[Vibrational behavior in bark beetles: Applied aspects](https://link.springer.com/chapter/10.1007/978-3-030-22293-2_21)
 
 #### 2018
 
