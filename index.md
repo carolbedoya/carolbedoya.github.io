@@ -4,7 +4,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 [![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [ Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [![button](https://img.icons8.com/windows/48/000000/orcid.png)](https://orcid.org/0000-0002-7013-7083) [ORCID](https://orcid.org/0000-0002-7013-7083) [![button](https://img.icons8.com/windows/48/000000/researchgate.png)](https://www.researchgate.net/profile/Carol-Bedoya) [ResearchGate](https://www.researchgate.net/profile/Carol-Bedoya)
 
-***
+*** 
 
 ## Publications
 
