@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Carol L. Bedoya
-
+github:
+  is_project_page: false
