@@ -92,4 +92,9 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
 
+<details>
+  <summary markdown="span">Datasets, click me to expand</summary>
 
+  This is the detailed text. [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
+  
+</details>
