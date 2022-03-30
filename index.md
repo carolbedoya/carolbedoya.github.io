@@ -9,7 +9,8 @@
 
 I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan">Acoustic Ecologist</span> (PhD). I develop computational/signal processing tools for the analysis of acoustic data and use them to solve biologically-relevant issues. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics, Ecoacoustics, and Biotremology). I code mostly in Matlab/Python :)
 
-[![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [ Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [![button](https://img.icons8.com/windows/48/000000/orcid.png)](https://orcid.org/0000-0002-7013-7083) [ORCID](https://orcid.org/0000-0002-7013-7083) [![button](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg)](https://www.researchgate.net/profile/Carol-Bedoya) [ResearchGate](https://www.researchgate.net/profile/Carol-Bedoya)
+[![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="42"> [ ORCID](https://orcid.org/0000-0002-7013-7083)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="42"> [ ResearchGate](https://www.researchgate.net/profile/Carol-Bedoya)
 
 *** 
 <br>
