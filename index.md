@@ -73,7 +73,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
   
 ***
 
-## Code:
+## Code
 
   [Individual Identification and Censusing of Birds](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
@@ -81,7 +81,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 ***
 
-## Datasets:
+## Datasets
 
   [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
@@ -89,7 +89,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
   
 ***
 
-## Contact:
+## Contact
 
 📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
 <br>
