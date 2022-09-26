@@ -22,11 +22,11 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 [Habitat and acoustic spectrum as determinant factors of the occupation of neotropical anurans (PDF)](http://revistas.humboldt.org.co/index.php/biota/article/view/910/1079)
 
+[Experimental characterization and automatic identification of stridulatory sounds inside wood (PDF)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.220217)
+
 #### 2021
 
 [Acoustic Censusing and Individual Identification of Birds in the Wild (PDF)](https://www.biorxiv.org/content/10.1101/2021.10.29.466450v1.full.pdf)
-
-[Experimental characterization and automatic identification of stridulatory sounds inside wood (PDF)](https://www.biorxiv.org/content/biorxiv/early/2021/09/09/2021.09.08.459381.full.pdf)
 
 [Pinyon engraver beetle acoustics: stridulation apparatus, sound production and behavioral response to vibroacoustic treatments in logs (PDF)](https://www.mdpi.com/2075-4450/12/6/496/htm)
 
@@ -78,7 +78,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
   [Individual Identification and Censusing of Birds](https://github.com/carolbedoya/Bird-ID-and-Censusing)
 
-  [Characterization of Stridulatory Sounds Inside Wood](https://github.com/carolbedoya/Beetle-Sounds-Inside-Wood)
+  [Characterization of Stridulatory Sounds Inside Wood](https://zenodo.org/record/6757369#.YzIUKXZByUk)
 
 ***
 
@@ -86,7 +86,7 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
   [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
-  [Beetle Sounds Inside Wood](https://doi.org/10.6084/m9.figshare.19233087)
+  [Beetle Sounds Inside Wood](https://figshare.com/articles/media/Experimental_Characterization_and_Automatic_Identification_of_Stridulatory_Sounds_Inside_Wood_-_Supplementary_Information_Data_/19233087/2)
   
 ***
 
