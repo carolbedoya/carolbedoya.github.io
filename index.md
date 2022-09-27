@@ -12,6 +12,12 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 [![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="42"> [ ORCID](https://orcid.org/0000-0002-7013-7083)
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="42"> [ ResearchGate](https://www.researchgate.net/profile/Carol-Bedoya) <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/91/20180806170714%21Octicons-mark-github.svg" width="42"> [ GitHub](https://github.com/carolbedoya)
 
+***
+
+## Contact
+
+📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
+<br>
 
 *** 
 <br>
@@ -87,10 +93,4 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
   [Kiwi Vocalizations](https://doi.org/10.6084/m9.figshare.16850542.v1)
 
   [Beetle Sounds Inside Wood](https://figshare.com/articles/media/Experimental_Characterization_and_Automatic_Identification_of_Stridulatory_Sounds_Inside_Wood_-_Supplementary_Information_Data_/19233087/2)
-  
-***
 
-## Contact
-
-📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
-<br>
