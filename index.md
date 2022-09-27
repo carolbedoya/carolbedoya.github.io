@@ -5,7 +5,7 @@
 *** 
 <br>
 
-## ¡Hola!
+## ¡Hola! 
 
 I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan">Acoustic Ecologist</span> (PhD). I develop computational/signal processing tools for the analysis of acoustic data and use them to solve biologically-relevant issues. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics, Ecoacoustics, and Biotremology). I code mostly in Matlab/Python ^^
 
