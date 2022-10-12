@@ -1,7 +1,8 @@
 <br>
 
 *** 
-#  Carol L. Bedoya
+#  Carol L. Bedoya ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91916849?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
 *** 
 <br>
 
