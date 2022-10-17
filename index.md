@@ -26,6 +26,8 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 ## Publications
 
+(<span style="color:magenta">*</span> First Author)
+
 #### 2022
 
 [Habitat and acoustic spectrum as determinant factors of the occupation of neotropical anurans (PDF)](http://revistas.humboldt.org.co/index.php/biota/article/view/910/1079)
