@@ -30,13 +30,13 @@ I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan
 
 #### 2022
 
-<span style="color:magenta">*</span> [Experimental characterization and automatic identification of stridulatory sounds inside wood (PDF)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.220217)
+[Experimental characterization and automatic identification of stridulatory sounds inside wood (PDF)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.220217)<span style="color:magenta">*</span> 
 
 [Habitat and acoustic spectrum as determinant factors of the occupation of neotropical anurans (PDF)](http://revistas.humboldt.org.co/index.php/biota/article/view/910/1079)
 
 #### 2021
 
-<span style="color:magenta">*</span> [Acoustic Censusing and Individual Identification of Birds in the Wild (PDF)](https://www.biorxiv.org/content/10.1101/2021.10.29.466450v1.full.pdf)
+[Acoustic Censusing and Individual Identification of Birds in the Wild (PDF)](https://www.biorxiv.org/content/10.1101/2021.10.29.466450v1.full.pdf)<span style="color:magenta">*</span> 
 
 <span style="color:magenta">*</span> [Sound Production in Bark and Ambrosia Beetles (PDF)](https://ir.canterbury.ac.nz/bitstream/handle/10092/18512/Bioacoustics_repository%5B2%5D.pdf?sequence=2)
 
