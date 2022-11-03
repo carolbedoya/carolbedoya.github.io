@@ -2,7 +2,7 @@
 
 ***
 #  Carol L. Bedoya 
-&nbsp; ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91916849?v=3&h=200&w=200&fit=cover&mask=circle&maxage=7d) 
+&nbsp; ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91916849?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d) 
 
 *** 
 <br>
