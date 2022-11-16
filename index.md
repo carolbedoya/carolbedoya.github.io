@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="zBJ6L4Imq2dSXY_tnyJ26fdhL-uIO-JpcKrZGl1fNf0" />
-
 <br>
 
 ***
