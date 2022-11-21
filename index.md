@@ -9,7 +9,7 @@
 
 ## ¡Hola! 
 
-<div style="text-align: justify"> I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan">Acoustic Ecologist</span> (PhD). My research lies at the intersection of Artificial Intelligence, Acoustics, and Biology. I develop computational and signal processing tools for the analysis of acoustic data, which I then use to answer biologically-relevant questions. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics, Ecoacoustics, and Biotremology). I code in Matlab and Python 🐍 </div>
+### <div style="text-align: justify"> I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan">Acoustic Ecologist</span> (PhD). My research lies at the intersection of Artificial Intelligence, Acoustics, and Biology. I develop computational and signal processing tools for the analysis of acoustic data, which I then use to answer biologically-relevant questions. My areas of expertise are Computational Intelligence (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and Animal Acoustics (Bioacoustics, Ecoacoustics, and Biotremology). I code in Matlab and Python 🐍 </div>
 
 [![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)
 
