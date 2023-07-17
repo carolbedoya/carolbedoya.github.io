@@ -9,9 +9,11 @@
 
 ## ¡Hola! 
 
-I am a <span style="color:magenta">Bioacoustician</span> (PhD). My research lies at the intersection of Artificial Intelligence, Acoustics, and Biology. I develop computational and signal processing tools for the analysis of acoustic data, which I then use to answer biologically-relevant questions. My areas of expertise are **Computational Intelligence** (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and **Animal Acoustics** (Bioacoustics, Ecoacoustics, and Biotremology). 
+I am a <span style="color:magenta">Bioacoustician</span>/<span style="color:cyan">Acoustic Ecologist</span> (PhD). My research lies at the intersection of Artificial Intelligence, Acoustics, and Biology. I develop computational and signal processing tools for the analysis of acoustic data, which I then use to answer biologically-relevant questions. My areas of expertise are **Computational Intelligence** (Artificial Neural Networks/Deep Learning, Clustering Algorithms, Fuzzy Logic, Evolutionary Computation) and **Animal Acoustics** (Bioacoustics, Ecoacoustics, and Biotremology). 
 
-My main research interest is the theoretical basis of animal acoustic communication. Particularly, the study of spatio-acoustic interactions in animal groups and the evolution of sound-production and language.  My current research focuses on the development of accurate deep learning methods for conservation biology; including species and individual identification, population censusing, sound source localization, and tracking.
+My main research interest is the theoretical basis of animal acoustic communication. Particularly, the study of spatio-acoustic interactions in animal groups and the evolution of sound production and language. My goal is to understand acoustic communication, from genes to soundscapes. 
+
+My current research focuses on the development of novel methods for conservation biology; including species and individual identification, population censusing, sound source localization, and tracking.
 
 [![button](https://img.icons8.com/color/48/000000/google-scholar--v3.png)](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en) [Google Scholar](https://scholar.google.co.nz/citations?user=-yOQu6MAAAAJ&hl=en)
 
