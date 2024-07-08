@@ -37,6 +37,10 @@ My current research focuses on the development of novel methods for conservation
 
 (<span style="color:magenta">*</span> First Author)
 
+#### 2024
+
+<span style="color:magenta">*</span> [Body size and sequence of host colonisation predict the presence of acoustic signalling in beetles (PDF)](https://doi.org/10.1038/s41598-024-66108-8)
+
 #### 2023
 
 &nbsp; [Acoustic animal identification using unsupervised learning (PDF)](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14103)
