@@ -27,7 +27,7 @@ My current research focuses on the development of novel methods for conservation
 
 ## Contact
 
-📧 **email:  <span style="color:CornflowerBlue">carol@atarausanctuary.co.nz</span>**  🦜
+📧 **email:  <span style="color:CornflowerBlue">carol@digilab.co</span>**  🦜
 <br>
 
 *** 
